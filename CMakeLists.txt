@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.5)
 project(<Project>)
 
-set(SRC_DIR codes/src)
-set(HDR_DIR codes/include)
+set(SRC_DIR code/src)
+set(HDR_DIR code/include)
 
 set(
     DIRS
