@@ -19,7 +19,7 @@ set(
 
 set(
     HDRS
-    ${HDR_DIR}
+    ${HDR_DIR}/test.hpp
 )
 
 set(
